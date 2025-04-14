@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Kobe Bryant",
+      "position": "SG",
+      "career_years": "1996–2016",
+      "teams": ["Los Angeles Lakers"],
+      "championships": 5,
+      "mvps": 1,
+      "all_star_appearances": 18,
+      "finals_mvps": 2,
+      "hall_of_fame": true,
+      "top_75_rank": 10
+    },
+    {
+      "name": "Tim Duncan",
+      "position": "PF/C",
+      "career_years": "1997–2016",
+      "teams": ["San Antonio Spurs"],
+      "championships": 5,
+      "mvps": 2,
+      "all_star_appearances": 15,
+      "finals_mvps": 3,
+      "hall_of_fame": true,
+      "top_75_rank": 9
+    }
+  ]
