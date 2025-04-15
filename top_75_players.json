@@ -1,26 +1,300 @@
-[
+{
+  "players": [
     {
-      "name": "Kobe Bryant",
-      "position": "SG",
-      "career_years": "1996–2016",
-      "teams": ["Los Angeles Lakers"],
-      "championships": 5,
-      "mvps": 1,
-      "all_star_appearances": 18,
-      "finals_mvps": 2,
-      "hall_of_fame": true,
-      "top_75_rank": 10
+      "id": 2931,
+      "rank": 1,
+      "first_name": "Michael",
+      "last_name": "Jordan",
+      "teams": [
+        "Chicago Bulls",
+        "Washington Wizards"
+      ],
+      "career_achievements": {
+        "points": 32292,
+        "rebounds": 6672,
+        "assists": 5633,
+        "steals": 2514,
+        "blocks": 893,
+        "ppg": 30.1,
+        "rpg": 6.2,
+        "apg": 5.3,
+        "mvp_awards": 5,
+        "championships": 6,
+        "all_star_selections": 14,
+        "finals_mvp_awards": 6,
+        "defensive_player_of_the_year_awards": 1,
+        "scoring_titles": 10,
+        "rookie_of_the_year": true,
+        "years_played": 15,
+        "active": false
+      }
     },
+
     {
-      "name": "Tim Duncan",
-      "position": "PF/C",
-      "career_years": "1997–2016",
+      "id": 237,
+      "rank": 2,
+      "first_name": "Lebron",
+      "last_name": "James",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Miami Heat",
+        "Los Angeles Lakers"
+      ],
+      "career_achievements": {
+        "points": 42096,
+        "rebounds": 11710,
+        "assists": 11563,
+        "steals": 2341,
+        "blocks": 1150,
+        "ppg": 27.0,
+        "rpg": 7.5,
+        "apg": 7.4,
+        "mvp_awards": 4,
+        "championships": 4,
+        "all_star_selections": 19,
+        "finals_mvp_awards": 4,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 1,
+        "rookie_of_the_year": true,
+        "years_played": 20,
+        "active": true
+      }
+    },
+
+    {
+      "id": 2247,
+      "rank": 3,
+      "first_name": "Kareem",
+      "last_name": "Abdul-Jabbar",
+      "teams": [
+        "Milwaukee Bucks",
+        "Los Angeles Lakers"
+      ],
+      "career_achievements": {
+        "points": 38387,
+        "rebounds": 17440,
+        "assists": 5660,
+        "steals": 1160,
+        "blocks": 3189,
+        "ppg": 24.6,
+        "rpg": 11.2,
+        "apg": 3.6,
+        "mvp_awards": 6,
+        "championships": 6,
+        "all_star_selections": 19,
+        "finals_mvp_awards": 2,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 2,
+        "rookie_of_the_year": true,
+        "years_played": 20,
+        "active": false
+      }
+    },
+
+    {
+      "id": 46396110,
+      "rank": 4,
+      "first_name": "Bill",
+      "last_name": "Russell",
+      "teams": [
+        "Boston Celtics"
+      ],
+      "career_achievements": {
+        "points": 14522,
+        "rebounds": 21620,
+        "assists": 4100,
+        "steals": null,
+        "blocks": null,
+        "ppg": 15.1,
+        "rpg": 22.5,
+        "apg": 4.3,
+        "mvp_awards": 5,
+        "championships": 11,
+        "all_star_selections": 12,
+        "finals_mvp_awards": 0,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 0,
+        "rookie_of_the_year": false,
+        "years_played": 13,
+        "active": false
+      }
+    },
+
+    {
+      "id": 2994,
+      "rank": 5,
+      "first_name": "Magic",
+      "last_name": "Johnson",
+      "teams": [
+        "Los Angeles Lakers"
+      ],
+      "career_achievements": {
+        "points": 17707,
+        "rebounds": 6559,
+        "assists": 10141,
+        "steals": 1724,
+        "blocks": 374,
+        "ppg": 19.5,
+        "rpg": 7.2,
+        "apg": 11.2,
+        "mvp_awards": 3,
+        "championships": 5,
+        "all_star_selections": 12,
+        "finals_mvp_awards": 3,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 0,
+        "rookie_of_the_year": false,
+        "years_played": 13,
+        "active": false
+      }
+    },
+
+    {
+      "id": 45398155,
+      "rank": 6,
+      "first_name": "Wilt",
+      "last_name": "Chamberlain",
+      "teams": [
+        "Philadelphia/San Francisco Warriors",
+        "Philadelphia 76ers",
+        "Los Angeles Lakers"
+      ],
+      "career_achievements": {
+        "points": 31419,
+        "rebounds": 23924,
+        "assists": 4643,
+        "steals": null,
+        "blocks": null,
+        "ppg": 30.1,
+        "rpg": 22.9,
+        "apg": 4.4,
+        "mvp_awards": 4,
+        "championships": 2,
+        "all_star_selections": 13,
+        "finals_mvp_awards": 1,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 7,
+        "rookie_of_the_year": true,
+        "years_played": 14,
+        "active": false
+      }
+    },
+    
+    {
+      "id": 2851,
+      "rank": 7,
+      "first_name": "Larry",
+      "last_name": "Bird",
+      "teams": ["Boston Celtics"],
+      "career_achievements": {
+        "points": 21791,
+        "rebounds": 8974,
+        "assists": 5695,
+        "steals": 1256,
+        "blocks": 755,
+        "ppg": 24.3,
+        "rpg": 10.0,
+        "apg": 6.3,
+        "mvp_awards": 3,
+        "championships": 3,
+        "all_star_selections": 12,
+        "finals_mvp_awards": 2,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 0,
+        "rookie_of_the_year": true,
+        "years_played": 13,
+        "active": false
+      }
+    },
+
+    {
+      "id": 735,
+      "rank": 8,
+      "first_name": "Shaquille",
+      "last_name": "O'Neal",
+      "teams": [
+        "Orlando Magic",
+        "Los Angeles Lakers",
+        "Miami Heat",
+        "Phoenix Suns",
+        "Cleveland Cavaliers",
+        "Boston Celtics"
+      ],
+      "career_achievements": {
+        "points": 28596,
+        "rebounds": 13099,
+        "assists": 3026,
+        "steals": 739,
+        "blocks": 2732,
+        "ppg": 23.7,
+        "rpg": 10.9,
+        "apg": 2.5,
+        "mvp_awards": 1,
+        "championships": 4,
+        "all_star_selections": 15,
+        "finals_mvp_awards": 3,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 2,
+        "rookie_of_the_year": true,
+        "years_played": 19,
+        "active": false
+      }
+    },
+
+    {
+      "id": 1089,
+      "rank": 9,
+      "first_name": "Tim",
+      "last_name": "Duncan",
       "teams": ["San Antonio Spurs"],
-      "championships": 5,
-      "mvps": 2,
-      "all_star_appearances": 15,
-      "finals_mvps": 3,
-      "hall_of_fame": true,
-      "top_75_rank": 9
+      "career_achievements": {
+        "points": 26496,
+        "rebounds": 15091,
+        "assists": 4225,
+        "steals": 1025,
+        "blocks": 3020,
+        "ppg": 19.0,
+        "rpg": 10.8,
+        "apg": 3.0,
+        "mvp_awards": 2,
+        "championships": 5,
+        "all_star_selections": 15,
+        "finals_mvp_awards": 3,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 0,
+        "rookie_of_the_year": true,
+        "years_played": 19,
+        "active": false
+      }
+    },
+    
+    {
+      "id": 1043,
+      "rank": 10,
+      "first_name": "Kobe",
+      "last_name": "Bryant",
+      "teams": ["Los Angeles Lakers"],
+      "career_achievements": {
+        "points": 33643,
+        "rebounds": 7047,
+        "assists": 6306,
+        "steals": 1944,
+        "blocks": 640,
+        "ppg": 25.0,
+        "rpg": 5.2,
+        "apg": 4.7,
+        "mvp_awards": 1,
+        "championships": 5,
+        "all_star_selections": 18,
+        "finals_mvp_awards": 2,
+        "defensive_player_of_the_year_awards": 0,
+        "scoring_titles": 2,
+        "rookie_of_the_year": false,
+        "years_played": 20,
+        "active": false
+      }
     }
+    
+    
   ]
+}
